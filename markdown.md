@@ -1,11 +1,11 @@
 # Sources
-1. Cheat sheets -
+1. Cheat sheets
 [Main](https://www.markdownguide.org/cheat-sheet)
 
 2. Editor specific - 
 [Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
-# Summary (1)
+# Summary
 ## Basic Syntax
 
 ---
@@ -124,7 +124,7 @@ print("2nd option")
 
 
 ---
-### Footnotes
+### Footnotes (unsupported)
     This text requires a footnote[^1], and yet another[^second]
     [^1] First footnote
     [^second] Second footnote
@@ -136,7 +136,7 @@ This text requires a footnote[^1], and yet another[^second].
 [^second]: Second footnote
 
 ---
-### Definition Lists
+### Definition Lists (unsupported)
 
     First term
     : First definition
