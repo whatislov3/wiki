@@ -1,2 +1,2 @@
 # wiki
-Repository of things I learned.
+Repository for things I learned.
