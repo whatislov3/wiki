@@ -1,5 +1,5 @@
 # Sources
-1. Cheat sheets
+1. Cheat sheets - 
 [Main](https://www.markdownguide.org/cheat-sheet)
 
 2. Editor specific - 
